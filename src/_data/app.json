@@ -1,0 +1,65 @@
+{
+  "title": "Sekolah Tinggi Al-Hikmah Pariangan Batusangkar",
+  "language": "en",
+  "description": "Sekolah Tinggi Al-Hikmah Pariangan Batusangkar adalah...",
+  "url": "http://localhost:8080",
+  "details": {
+    "alamat": "Jorong Padang Panjang Pariangan No. 17 Kec. Pariangan Kab. Tanah Datar Sekolah Tinggi Agama Islam Al-Hikmah Pariangan Batusangkar, West Sumatra, Indonesia.",
+    "kontak": "085379388533",
+    "email": "info@staialhikmahpariangan.ac.id",
+    "jurusan": [
+      {
+        "fakultas": "Fakultas Tarbiyah dan Ilmu Keguruan",
+        "jurusan": "Pendidikan Agama Islam"
+      },
+      {
+        "fakultas": "Fakultas Ushuluddin Adab dan Dakwah",
+        "jurusan": "Komunikasi dan Penyiaran Islam"
+      }
+    ],
+    "organisasi": [
+      {
+        "nama": "Senat Mahasiswa",
+        "photo": "",
+        "deskripsi": ""
+      },
+      {
+        "nama": "Dewan Eksekutif Mahasiswa",
+        "photo": "",
+        "deskripsi": ""
+      },
+      {
+        "nama": "Resimen Mahasiswa",
+        "photo": "",
+        "deskripsi": ""
+      },
+      {
+        "nama": "Pramuka",
+        "photo": "",
+        "deskripsi": ""
+      },
+      {
+        "nama": "Dakwah Kampus",
+        "photo": "",
+        "deskripsi": ""
+      }
+    ],
+    "social_media": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/staialhikmahpariangan.ac.id/?locale=id_ID",
+        "icon": ""
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/staialhikmahpariangan/",
+        "icon": ""
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCHtfX30zDCaa1tEovPgmMkA",
+        "icon": ""
+      }
+    ]
+  }
+}
